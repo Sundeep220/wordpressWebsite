@@ -20,5 +20,5 @@ A wordpress website installed on nginx webserver using mySQL and PHP.
   - to view the application:
       - go to your browser and type url for your localhost server on port 80. You should see the installation of wordpress website.
       - the credentials for root user: 
-        - username: admin
-        - password: Admin22
+        - username: `admin`
+        - password: `Admin22`
